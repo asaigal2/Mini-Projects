@@ -10,3 +10,8 @@ k-Nearest Neighbors (k-NN) Classifier
 Decision Tree Classifier
 Random Forest Classifier
 Stochastic Gradient Descent (SGD) Classifier
+
+**Project 2** NVDA Stock Prediction Model
+This project uses historical stock data from the Yahoo Finance dataset (NVDA.csv) to predict future stock prices using machine learning techniques. The Jupyter Notebook (Stock Prediction.ipynb) contains the data analysis, model training, and evaluation steps.I used linear regression to train and test the model. 
+
+
